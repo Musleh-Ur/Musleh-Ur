@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Musleh-Ur
 - 👀 I’m interested in Data Science, Machine Learning, Deeplearning
 - 🌱 I’m currently learning object detection using pretrained YOLO models.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on computer vision, Natural language processing
 - 📫 How to reach me rahmanmusleur0@gmail.com
 
 <!---
